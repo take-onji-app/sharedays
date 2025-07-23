@@ -124,8 +124,8 @@ OnTake
 
 ---
 
-**[利用規約へのリンク]**
+**[利用規約]**
 
-（プライバシーポリシーとは別に、「利用規約」も作成し、本アプリの利用条件、禁止事項、知的財産権、免責事項などを記載したページへのリンクをここに記載します。例：`[利用規約](https://github.com/take-onji-app/sharedays/blob/main/TERMS_OF_SERVICE.md)`）
+`[利用規約](https://github.com/take-onji-app/sharedays/blob/main/TERMS_OF_SERVICE.md)`
 
 ---
