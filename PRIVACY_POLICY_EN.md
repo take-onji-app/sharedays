@@ -128,6 +128,6 @@ Last Revision Date: 2025. 7. 23
 
 Please review the Terms of Service for this App from the link below.
 
-[ShareDays Terms of Service](https://github.com/take-onji-app/sharedays/blob/main/TERMS_OF_SERVICE.md)
+[ShareDays Terms of Service](https://github.com/take-onji-app/sharedays/blob/main/TERMS_OF_SERVICE_EN.md)
 
 ---
